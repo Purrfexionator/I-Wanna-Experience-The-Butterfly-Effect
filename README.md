@@ -9,6 +9,12 @@ Its both of our first times releasing something of this scale, so we hope you en
 ----------------------------------------
 
 ----------------------------------------
+SOURCE:
+
+https://github.com/Purrfexionator/I-Wanna-Experience-The-Butterfly-Effect
+----------------------------------------
+
+----------------------------------------
 MAKERS:
 
 Purrfexionator:
