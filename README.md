@@ -15,6 +15,12 @@ https://github.com/Purrfexionator/I-Wanna-Experience-The-Butterfly-Effect
 ----------------------------------------
 
 ----------------------------------------
+ENGINE:
+
+https://github.com/Synthasmagoria/Synth-Engine-GMS2.3
+----------------------------------------
+
+----------------------------------------
 MAKERS:
 
 Purrfexionator:
@@ -82,6 +88,7 @@ Version 2:
 
 Version 3:
 - Reversed direction priority and fixed vines
+- Made ice shards in snow stage fade
 - Slightly nerfed gravity stage final save
 - Slightly buffed final boss
 - Added impossible mode, complete with a harder version of the boss
