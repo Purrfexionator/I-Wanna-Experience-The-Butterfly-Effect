@@ -1,0 +1,1 @@
+if savedata_get_active("difficulty") == DIFFICULTY.DEATHLESS sprite_index = sSaveAbsent;
