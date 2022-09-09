@@ -48,25 +48,25 @@ Racic:
 MUSIC:
 
 [Title] MusMus - 財布を落とした帰り道
-https://www.youtube.com/watch?v=h_xGkaOmvIg
+- https://www.youtube.com/watch?v=h_xGkaOmvIg
 
 [Hub] Xenoblade Chronicles 3 - Menu
-https://youtu.be/NGG_aqfmulk
+- https://youtu.be/NGG_aqfmulk
 
 [Fire Stage] Risk of Rain - Hailstorm
-https://youtu.be/-zykH5DIkV4
+- https://youtu.be/-zykH5DIkV4
 
 [Gravity Stage] Risk of Rain 2 - The Rain Formerly Known as Purple
-https://youtu.be/EGXPAoyP_cg
+- https://youtu.be/EGXPAoyP_cg
 
 [Snow Stage] Omori - White Surf Style 6
-https://youtu.be/_7FGh_1cWT0
+- https://youtu.be/_7FGh_1cWT0
 
 [Final Boss] DM DOKURO - Threats of the Ocean Floor
-https://www.youtube.com/watch?v=O_zPaC5xqns
+- https://www.youtube.com/watch?v=O_zPaC5xqns
 
 [Credits] MusMus - Flying Bed Room
-https://www.youtube.com/watch?v=ZLLn3FNyc5s
+- https://www.youtube.com/watch?v=ZLLn3FNyc5s
 ----------------------------------------
 
 ----------------------------------------
