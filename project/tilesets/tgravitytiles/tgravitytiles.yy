@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tGravityTiles",
   "spriteId": {
     "name": "sGravityTiles",
     "path": "sprites/sGravityTiles/sGravityTiles.yy",
@@ -55,8 +58,4 @@
     "name": "Tile Sets",
     "path": "folders/Tile Sets.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tGravityTiles",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oPanel",
   "spriteId": {
     "name": "sPanel",
     "path": "sprites/sPanel/sPanel.yy",
@@ -28,8 +31,4 @@
     "name": "Props",
     "path": "folders/Objects/Props.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oPanel",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oBossKiller",
   "spriteId": {
     "name": "sKiller",
     "path": "sprites/sKiller/sKiller.yy",
@@ -31,8 +34,4 @@
     "name": "Boss Blockers",
     "path": "folders/Objects/Boss/Boss Blockers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oBossKiller",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tVoidTiles",
   "spriteId": {
     "name": "sVoidTiles",
     "path": "sprites/sVoidTiles/sVoidTiles.yy",
@@ -55,8 +58,4 @@
     "name": "Tile Sets",
     "path": "folders/Tile Sets.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tVoidTiles",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

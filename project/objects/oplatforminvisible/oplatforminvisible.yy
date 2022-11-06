@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oPlatformInvisible",
   "spriteId": {
     "name": "sPlatformInvisible",
     "path": "sprites/sPlatformInvisible/sPlatformInvisible.yy",
@@ -31,10 +34,7 @@
     "name": "Platforms",
     "path": "folders/Objects/Platforms.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oPlatformInvisible",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

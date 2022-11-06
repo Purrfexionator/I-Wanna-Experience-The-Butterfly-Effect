@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oTimeMachine",
   "spriteId": {
     "name": "sTimeMachine",
     "path": "sprites/sTimeMachine/sTimeMachine.yy",
@@ -28,8 +31,4 @@
     "name": "Props",
     "path": "folders/Objects/Props.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oTimeMachine",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oTable",
   "spriteId": {
     "name": "sTable",
     "path": "sprites/sTable/sTable.yy",
@@ -31,8 +34,4 @@
     "name": "Props",
     "path": "folders/Objects/Props.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oTable",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oBossWarning",
   "spriteId": {
     "name": "sBossWarning",
     "path": "sprites/sBossWarning/sBossWarning.yy",
@@ -31,8 +34,4 @@
     "name": "Boss Warnings",
     "path": "folders/Objects/Boss/Boss Warnings.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oBossWarning",
-  "tags": [],
-  "resourceType": "GMObject",
 }

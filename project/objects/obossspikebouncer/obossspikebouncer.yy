@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oBossSpikeBouncer",
   "spriteId": {
     "name": "sTriggerBlock",
     "path": "sprites/sTriggerBlock/sTriggerBlock.yy",
@@ -22,7 +25,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oSnowflake","path":"objects/oSnowflake/oSnowflake.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oSnowflake","path":"objects/oSnowflake/oSnowflake.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,8 +33,4 @@
     "name": "Boss Blockers",
     "path": "folders/Objects/Boss/Boss Blockers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oBossSpikeBouncer",
-  "tags": [],
-  "resourceType": "GMObject",
 }

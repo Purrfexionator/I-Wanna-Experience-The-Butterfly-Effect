@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "sBossShootSpike",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 48,
   "height": 48,
   "textureGroupId": {
@@ -24,15 +28,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"545e86fd-4aec-4523-af80-201a82b09656","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"545e86fd-4aec-4523-af80-201a82b09656","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},"LayerId":{"name":"7e9a1e9e-18b6-4840-b641-3538c31db8c5","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"545e86fd-4aec-4523-af80-201a82b09656","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},"LayerId":{"name":"4cb7b8be-0b6e-46b3-8500-41579bcfe5a8","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"545e86fd-4aec-4523-af80-201a82b09656","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},"LayerId":{"name":"36eb308a-cef7-47e7-9743-71be024f8a50","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"545e86fd-4aec-4523-af80-201a82b09656","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},"LayerId":{"name":"ce226cc4-1d2c-40f7-8275-ac1d1bf45ce3","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sBossShootSpike","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},"resourceVersion":"1.0","name":"545e86fd-4aec-4523-af80-201a82b09656","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"545e86fd-4aec-4523-af80-201a82b09656",},
   ],
   "sequence": {
-    "spriteId": {"name":"sBossShootSpike","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "sBossShootSpike",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -40,12 +41,12 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 1.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"2838dcdc-e662-492b-a6c6-a7f5d21676c0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"545e86fd-4aec-4523-af80-201a82b09656","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"2838dcdc-e662-492b-a6c6-a7f5d21676c0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"545e86fd-4aec-4523-af80-201a82b09656","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -61,25 +62,16 @@
     "yorigin": 8,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sBossShootSpike","path":"sprites/sBossShootSpike/sBossShootSpike.yy",},
-    "resourceVersion": "1.4",
-    "name": "sBossShootSpike",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1 (2) (2)","resourceVersion":"1.0","name":"7e9a1e9e-18b6-4840-b641-3538c31db8c5","tags":[],"resourceType":"GMImageLayer",},
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1 (2)","resourceVersion":"1.0","name":"4cb7b8be-0b6e-46b3-8500-41579bcfe5a8","tags":[],"resourceType":"GMImageLayer",},
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default (2)","resourceVersion":"1.0","name":"36eb308a-cef7-47e7-9743-71be024f8a50","tags":[],"resourceType":"GMImageLayer",},
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ce226cc4-1d2c-40f7-8275-ac1d1bf45ce3","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7e9a1e9e-18b6-4840-b641-3538c31db8c5","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1 (2) (2)",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4cb7b8be-0b6e-46b3-8500-41579bcfe5a8","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1 (2)",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"36eb308a-cef7-47e7-9743-71be024f8a50","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default (2)",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ce226cc4-1d2c-40f7-8275-ac1d1bf45ce3","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Boss Arena",
     "path": "folders/Sprites/Boss/Boss Arena.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sBossShootSpike",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oSapling",
   "spriteId": {
     "name": "sSapling",
     "path": "sprites/sSapling/sSapling.yy",
@@ -31,8 +34,4 @@
     "name": "Props",
     "path": "folders/Objects/Props.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oSapling",
-  "tags": [],
-  "resourceType": "GMObject",
 }

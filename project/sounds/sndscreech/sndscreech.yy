@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "sndScreech",
   "conversionMode": 0,
   "compression": 1,
   "volume": 1.0,
@@ -17,8 +20,4 @@
     "name": "Sound Effects",
     "path": "folders/Sounds/Sound Effects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sndScreech",
-  "tags": [],
-  "resourceType": "GMSound",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oTriggerCherry",
   "spriteId": {
     "name": "sTriggerCherry",
     "path": "sprites/sTriggerCherry/sTriggerCherry.yy",
@@ -22,7 +25,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,10 +33,7 @@
     "name": "Trigger",
     "path": "folders/Objects/Trigger.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oTriggerCherry",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

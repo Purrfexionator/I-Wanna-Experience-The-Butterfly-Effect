@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tBurntBackgroundTiles",
   "spriteId": {
     "name": "sBurntBackgroundTiles",
     "path": "sprites/sBurntBackgroundTiles/sBurntBackgroundTiles.yy",
@@ -55,8 +58,4 @@
     "name": "Tile Sets",
     "path": "folders/Tile Sets.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tBurntBackgroundTiles",
-  "tags": [],
-  "resourceType": "GMTileSet",
 }

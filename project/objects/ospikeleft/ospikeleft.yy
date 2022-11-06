@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oSpikeLeft",
   "spriteId": {
     "name": "sSpikeLeft",
     "path": "sprites/sSpikeLeft/sSpikeLeft.yy",
@@ -31,10 +34,7 @@
     "name": "Killers",
     "path": "folders/Objects/Killers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oSpikeLeft",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

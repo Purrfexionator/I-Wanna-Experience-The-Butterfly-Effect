@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oCherry",
   "spriteId": {
     "name": "sCherry",
     "path": "sprites/sCherry/sCherry.yy",
@@ -31,10 +34,7 @@
     "name": "Killers",
     "path": "folders/Objects/Killers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oCherry",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

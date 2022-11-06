@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "sTriggerCherry",
   "bboxMode": 0,
   "collisionKind": 4,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 21,
   "height": 24,
   "textureGroupId": {
@@ -24,15 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f0f36410-4c4b-446e-bdaf-d332cdb3a0a9","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f0f36410-4c4b-446e-bdaf-d332cdb3a0a9","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},"LayerId":{"name":"b65a0bdf-c152-4e32-84a4-315eb0fadb18","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sTriggerCherry","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},"resourceVersion":"1.0","name":"f0f36410-4c4b-446e-bdaf-d332cdb3a0a9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d97d73a8-1ef7-4dca-86c1-181bdf18bf81","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d97d73a8-1ef7-4dca-86c1-181bdf18bf81","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},"LayerId":{"name":"b65a0bdf-c152-4e32-84a4-315eb0fadb18","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sTriggerCherry","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},"resourceVersion":"1.0","name":"d97d73a8-1ef7-4dca-86c1-181bdf18bf81","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f0f36410-4c4b-446e-bdaf-d332cdb3a0a9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d97d73a8-1ef7-4dca-86c1-181bdf18bf81",},
   ],
   "sequence": {
-    "spriteId": {"name":"sTriggerCherry","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "sTriggerCherry",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 3.333,
@@ -40,13 +42,13 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 2.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"e73860c7-ab60-4cdf-bc4c-a4713c498b4c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f0f36410-4c4b-446e-bdaf-d332cdb3a0a9","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"45a6c918-ca5e-4f79-9958-e881746db437","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d97d73a8-1ef7-4dca-86c1-181bdf18bf81","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"e73860c7-ab60-4cdf-bc4c-a4713c498b4c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f0f36410-4c4b-446e-bdaf-d332cdb3a0a9","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"45a6c918-ca5e-4f79-9958-e881746db437","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d97d73a8-1ef7-4dca-86c1-181bdf18bf81","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": {"x":0.0,"y":0.0,},
     "lockOrigin": false,
@@ -62,22 +64,13 @@
     "yorigin": 12,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sTriggerCherry","path":"sprites/sTriggerCherry/sTriggerCherry.yy",},
-    "resourceVersion": "1.4",
-    "name": "sTriggerCherry",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b65a0bdf-c152-4e32-84a4-315eb0fadb18","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b65a0bdf-c152-4e32-84a4-315eb0fadb18","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Trigger",
     "path": "folders/Sprites/Trigger.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sTriggerCherry",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "musWind",
   "conversionMode": 0,
   "compression": 1,
   "volume": 0.2,
@@ -17,8 +20,4 @@
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "musWind",
-  "tags": [],
-  "resourceType": "GMSound",
 }

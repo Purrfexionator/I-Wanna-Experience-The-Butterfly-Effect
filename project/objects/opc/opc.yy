@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oPC",
   "spriteId": {
     "name": "sPC",
     "path": "sprites/sPC/sPC.yy",
@@ -28,8 +31,4 @@
     "name": "Props",
     "path": "folders/Objects/Props.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oPC",
-  "tags": [],
-  "resourceType": "GMObject",
 }

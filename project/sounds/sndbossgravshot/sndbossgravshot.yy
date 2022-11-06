@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "sndBossGravShot",
   "conversionMode": 0,
   "compression": 1,
   "volume": 0.72,
@@ -17,8 +20,4 @@
     "name": "Sound Effects",
     "path": "folders/Sounds/Sound Effects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sndBossGravShot",
-  "tags": [],
-  "resourceType": "GMSound",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oTrollTrigger",
   "spriteId": {
     "name": "sTroll",
     "path": "sprites/sTroll/sTroll.yy",
@@ -28,8 +31,4 @@
     "name": "Trigger",
     "path": "folders/Objects/Trigger.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oTrollTrigger",
-  "tags": [],
-  "resourceType": "GMObject",
 }

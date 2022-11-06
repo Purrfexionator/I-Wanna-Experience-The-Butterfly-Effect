@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "sSaveDeathless",
   "bboxMode": 1,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -24,19 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b60387b1-f38f-40bb-a0d0-04af729cf135","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b60387b1-f38f-40bb-a0d0-04af729cf135","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"LayerId":{"name":"17d2c9aa-127c-4150-8152-617175c20c02","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"b60387b1-f38f-40bb-a0d0-04af729cf135","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"LayerId":{"name":"92eb06bc-98ca-467e-9de1-7dfb83018f08","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"b60387b1-f38f-40bb-a0d0-04af729cf135","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"LayerId":{"name":"0030f7f5-ce2e-4d35-aac2-8434495f06c5","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sSaveDeathless","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"resourceVersion":"1.0","name":"b60387b1-f38f-40bb-a0d0-04af729cf135","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"91f2f4a9-436a-4209-8cf5-82bc99f7fffa","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"91f2f4a9-436a-4209-8cf5-82bc99f7fffa","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"LayerId":{"name":"17d2c9aa-127c-4150-8152-617175c20c02","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"91f2f4a9-436a-4209-8cf5-82bc99f7fffa","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"LayerId":{"name":"92eb06bc-98ca-467e-9de1-7dfb83018f08","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"91f2f4a9-436a-4209-8cf5-82bc99f7fffa","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"LayerId":{"name":"0030f7f5-ce2e-4d35-aac2-8434495f06c5","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sSaveDeathless","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"resourceVersion":"1.0","name":"91f2f4a9-436a-4209-8cf5-82bc99f7fffa","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b60387b1-f38f-40bb-a0d0-04af729cf135",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"91f2f4a9-436a-4209-8cf5-82bc99f7fffa",},
   ],
   "sequence": {
-    "spriteId": {"name":"sSaveDeathless","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "sSaveDeathless",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.0,
@@ -44,13 +42,13 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 2.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"54f6948c-ad8e-4381-880e-0d4aa861407b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b60387b1-f38f-40bb-a0d0-04af729cf135","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"e8b0f3ea-2e03-4872-83ba-827d508a6a6d","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"91f2f4a9-436a-4209-8cf5-82bc99f7fffa","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"54f6948c-ad8e-4381-880e-0d4aa861407b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b60387b1-f38f-40bb-a0d0-04af729cf135","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e8b0f3ea-2e03-4872-83ba-827d508a6a6d","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"91f2f4a9-436a-4209-8cf5-82bc99f7fffa","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,24 +64,15 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sSaveDeathless","path":"sprites/sSaveDeathless/sSaveDeathless.yy",},
-    "resourceVersion": "1.4",
-    "name": "sSaveDeathless",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"17d2c9aa-127c-4150-8152-617175c20c02","tags":[],"resourceType":"GMImageLayer",},
-    {"visible":true,"isLocked":false,"blendMode":3,"opacity":100.0,"displayName":"Layer 1 (2)","resourceVersion":"1.0","name":"92eb06bc-98ca-467e-9de1-7dfb83018f08","tags":[],"resourceType":"GMImageLayer",},
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"0030f7f5-ce2e-4d35-aac2-8434495f06c5","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"17d2c9aa-127c-4150-8152-617175c20c02","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"92eb06bc-98ca-467e-9de1-7dfb83018f08","visible":true,"isLocked":false,"blendMode":3,"opacity":100.0,"displayName":"Layer 1 (2)",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0030f7f5-ce2e-4d35-aac2-8434495f06c5","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Misc",
     "path": "folders/Sprites/Misc.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sSaveDeathless",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

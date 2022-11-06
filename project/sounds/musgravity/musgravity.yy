@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "musGravity",
   "conversionMode": 0,
   "compression": 1,
   "volume": 0.48,
@@ -17,8 +20,4 @@
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "musGravity",
-  "tags": [],
-  "resourceType": "GMSound",
 }

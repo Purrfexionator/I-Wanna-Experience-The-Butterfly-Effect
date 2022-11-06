@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "sBossWarning",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 272,
   "height": 272,
   "textureGroupId": {
@@ -24,12 +28,12 @@
   "gridX": 4,
   "gridY": 4,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"dac023d9-f383-4695-8f30-c87825b9faa2","path":"sprites/sBossWarning/sBossWarning.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"dac023d9-f383-4695-8f30-c87825b9faa2","path":"sprites/sBossWarning/sBossWarning.yy",},"LayerId":{"name":"40c14ddf-d829-463c-96b4-f54d5e780d83","path":"sprites/sBossWarning/sBossWarning.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sBossWarning","path":"sprites/sBossWarning/sBossWarning.yy",},"resourceVersion":"1.0","name":"dac023d9-f383-4695-8f30-c87825b9faa2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dac023d9-f383-4695-8f30-c87825b9faa2",},
   ],
   "sequence": {
-    "spriteId": {"name":"sBossWarning","path":"sprites/sBossWarning/sBossWarning.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "sBossWarning",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -37,12 +41,12 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 1.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"93abe6fc-7a47-4153-aa6a-4555f3889e31","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dac023d9-f383-4695-8f30-c87825b9faa2","path":"sprites/sBossWarning/sBossWarning.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"93abe6fc-7a47-4153-aa6a-4555f3889e31","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dac023d9-f383-4695-8f30-c87825b9faa2","path":"sprites/sBossWarning/sBossWarning.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -58,22 +62,13 @@
     "yorigin": 136,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sBossWarning","path":"sprites/sBossWarning/sBossWarning.yy",},
-    "resourceVersion": "1.4",
-    "name": "sBossWarning",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":35.0,"displayName":"default","resourceVersion":"1.0","name":"40c14ddf-d829-463c-96b4-f54d5e780d83","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"40c14ddf-d829-463c-96b4-f54d5e780d83","visible":true,"isLocked":false,"blendMode":0,"opacity":35.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Boss Warnings",
     "path": "folders/Sprites/Boss/Boss Warnings.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sBossWarning",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

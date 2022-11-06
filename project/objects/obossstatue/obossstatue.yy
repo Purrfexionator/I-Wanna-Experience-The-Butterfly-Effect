@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oBossStatue",
   "spriteId": {
     "name": "sBossStatue",
     "path": "sprites/sBossStatue/sBossStatue.yy",
@@ -28,8 +31,4 @@
     "name": "Props",
     "path": "folders/Objects/Props.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oBossStatue",
-  "tags": [],
-  "resourceType": "GMObject",
 }

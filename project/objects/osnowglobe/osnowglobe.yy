@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oSnowglobe",
   "spriteId": {
     "name": "sSnowglobe",
     "path": "sprites/sSnowglobe/sSnowglobe.yy",
@@ -31,8 +34,4 @@
     "name": "Props",
     "path": "folders/Objects/Props.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oSnowglobe",
-  "tags": [],
-  "resourceType": "GMObject",
 }

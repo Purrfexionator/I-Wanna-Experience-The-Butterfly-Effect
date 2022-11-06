@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oWater3",
   "spriteId": {
     "name": "sWater3",
     "path": "sprites/sWater3/sWater3.yy",
@@ -31,10 +34,7 @@
     "name": "Water",
     "path": "folders/Objects/Water.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oWater3",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oGravityArrowUp",
   "spriteId": {
     "name": "sArrowUp",
     "path": "sprites/sArrowUp/sArrowUp.yy",
@@ -28,10 +31,7 @@
     "name": "Misc",
     "path": "folders/Objects/Misc.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oGravityArrowUp",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

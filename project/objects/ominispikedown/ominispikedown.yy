@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oMiniSpikeDown",
   "spriteId": {
     "name": "sMiniSpikeDown",
     "path": "sprites/sMiniSpikeDown/sMiniSpikeDown.yy",
@@ -31,10 +34,7 @@
     "name": "Killers",
     "path": "folders/Objects/Killers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oMiniSpikeDown",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

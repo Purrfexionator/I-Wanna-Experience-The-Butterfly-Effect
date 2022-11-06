@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oVine",
   "spriteId": {
     "name": "sVine",
     "path": "sprites/sVine/sVine.yy",
@@ -28,10 +31,7 @@
     "name": "Misc",
     "path": "folders/Objects/Misc.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oVine",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

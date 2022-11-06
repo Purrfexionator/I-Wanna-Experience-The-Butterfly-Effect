@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oSpikeUp",
   "spriteId": {
     "name": "sSpikeUp",
     "path": "sprites/sSpikeUp/sSpikeUp.yy",
@@ -31,10 +34,7 @@
     "name": "Killers",
     "path": "folders/Objects/Killers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oSpikeUp",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

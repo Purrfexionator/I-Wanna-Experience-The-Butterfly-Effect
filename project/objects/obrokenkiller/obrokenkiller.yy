@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oBrokenKiller",
   "spriteId": {
     "name": "sBrokenKiller",
     "path": "sprites/sBrokenKiller/sBrokenKiller.yy",
@@ -31,10 +34,7 @@
     "name": "Killers",
     "path": "folders/Objects/Killers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oBrokenKiller",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

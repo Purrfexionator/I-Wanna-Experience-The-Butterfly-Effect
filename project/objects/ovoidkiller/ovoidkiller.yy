@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oVoidKiller",
   "spriteId": {
     "name": "sVoidKiller",
     "path": "sprites/sVoidKiller/sVoidKiller.yy",
@@ -31,10 +34,7 @@
     "name": "Killers",
     "path": "folders/Objects/Killers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oVoidKiller",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

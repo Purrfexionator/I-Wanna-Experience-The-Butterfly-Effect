@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oGravityArrowDown",
   "spriteId": {
     "name": "sArrowDown",
     "path": "sprites/sArrowDown/sArrowDown.yy",
@@ -28,10 +31,7 @@
     "name": "Misc",
     "path": "folders/Objects/Misc.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oGravityArrowDown",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "sndItem",
   "conversionMode": 0,
   "compression": 0,
   "volume": 0.65,
@@ -17,8 +20,4 @@
     "name": "Sound Effects",
     "path": "folders/Sounds/Sound Effects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sndItem",
-  "tags": [],
-  "resourceType": "GMSound",
 }

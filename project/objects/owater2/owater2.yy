@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oWater2",
   "spriteId": {
     "name": "sWater2",
     "path": "sprites/sWater2/sWater2.yy",
@@ -25,7 +28,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":7,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -33,10 +36,7 @@
     "name": "Water",
     "path": "folders/Objects/Water.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oWater2",
   "tags": [
     "design",
   ],
-  "resourceType": "GMObject",
 }

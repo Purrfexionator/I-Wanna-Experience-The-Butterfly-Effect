@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "sBobPortrait",
   "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 160,
   "height": 160,
   "textureGroupId": {
@@ -24,19 +28,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"7ed8bba4-d748-4cd1-b75c-6c05a06b7401","path":"sprites/sBobPortrait/sBobPortrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7ed8bba4-d748-4cd1-b75c-6c05a06b7401","path":"sprites/sBobPortrait/sBobPortrait.yy",},"LayerId":{"name":"03fe4de9-504e-4ecb-a98b-3db233d3c6e9","path":"sprites/sBobPortrait/sBobPortrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"7ed8bba4-d748-4cd1-b75c-6c05a06b7401","path":"sprites/sBobPortrait/sBobPortrait.yy",},"LayerId":{"name":"0df213f8-b689-4e4c-80fa-19a690579592","path":"sprites/sBobPortrait/sBobPortrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"7ed8bba4-d748-4cd1-b75c-6c05a06b7401","path":"sprites/sBobPortrait/sBobPortrait.yy",},"LayerId":{"name":"74f798e3-2bcb-4240-8ae4-710d2b3737ba","path":"sprites/sBobPortrait/sBobPortrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sBobPortrait","path":"sprites/sBobPortrait/sBobPortrait.yy",},"resourceVersion":"1.0","name":"7ed8bba4-d748-4cd1-b75c-6c05a06b7401","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"5cfc5dcd-76c6-4918-9227-0703ac3f118c","path":"sprites/sBobPortrait/sBobPortrait.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5cfc5dcd-76c6-4918-9227-0703ac3f118c","path":"sprites/sBobPortrait/sBobPortrait.yy",},"LayerId":{"name":"03fe4de9-504e-4ecb-a98b-3db233d3c6e9","path":"sprites/sBobPortrait/sBobPortrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"5cfc5dcd-76c6-4918-9227-0703ac3f118c","path":"sprites/sBobPortrait/sBobPortrait.yy",},"LayerId":{"name":"0df213f8-b689-4e4c-80fa-19a690579592","path":"sprites/sBobPortrait/sBobPortrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"5cfc5dcd-76c6-4918-9227-0703ac3f118c","path":"sprites/sBobPortrait/sBobPortrait.yy",},"LayerId":{"name":"74f798e3-2bcb-4240-8ae4-710d2b3737ba","path":"sprites/sBobPortrait/sBobPortrait.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sBobPortrait","path":"sprites/sBobPortrait/sBobPortrait.yy",},"resourceVersion":"1.0","name":"5cfc5dcd-76c6-4918-9227-0703ac3f118c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7ed8bba4-d748-4cd1-b75c-6c05a06b7401",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5cfc5dcd-76c6-4918-9227-0703ac3f118c",},
   ],
   "sequence": {
-    "spriteId": {"name":"sBobPortrait","path":"sprites/sBobPortrait/sBobPortrait.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "sBobPortrait",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 0.0,
@@ -44,13 +42,13 @@
     "autoRecord": true,
     "volume": 1.0,
     "length": 2.0,
-    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MessageEventKeyframe",},
-    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"130c86bd-448b-45b1-842c-689da673a1a6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7ed8bba4-d748-4cd1-b75c-6c05a06b7401","path":"sprites/sBobPortrait/sBobPortrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-            {"id":"684cdb5e-1e8e-4846-a38b-18475e38172c","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5cfc5dcd-76c6-4918-9227-0703ac3f118c","path":"sprites/sBobPortrait/sBobPortrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"130c86bd-448b-45b1-842c-689da673a1a6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7ed8bba4-d748-4cd1-b75c-6c05a06b7401","path":"sprites/sBobPortrait/sBobPortrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"684cdb5e-1e8e-4846-a38b-18475e38172c","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5cfc5dcd-76c6-4918-9227-0703ac3f118c","path":"sprites/sBobPortrait/sBobPortrait.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,24 +64,15 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sBobPortrait","path":"sprites/sBobPortrait/sBobPortrait.yy",},
-    "resourceVersion": "1.4",
-    "name": "sBobPortrait",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1 (2)","resourceVersion":"1.0","name":"03fe4de9-504e-4ecb-a98b-3db233d3c6e9","tags":[],"resourceType":"GMImageLayer",},
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"0df213f8-b689-4e4c-80fa-19a690579592","tags":[],"resourceType":"GMImageLayer",},
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"74f798e3-2bcb-4240-8ae4-710d2b3737ba","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"03fe4de9-504e-4ecb-a98b-3db233d3c6e9","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1 (2)",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0df213f8-b689-4e4c-80fa-19a690579592","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"74f798e3-2bcb-4240-8ae4-710d2b3737ba","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Props",
     "path": "folders/Sprites/Props.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sBobPortrait",
-  "tags": [],
-  "resourceType": "GMSprite",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oTree",
   "spriteId": {
     "name": "sTree",
     "path": "sprites/sTree/sTree.yy",
@@ -31,8 +34,4 @@
     "name": "Props",
     "path": "folders/Objects/Props.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oTree",
-  "tags": [],
-  "resourceType": "GMObject",
 }

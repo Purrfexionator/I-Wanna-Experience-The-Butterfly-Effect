@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oBlock24px",
   "spriteId": {
     "name": "sBlock24px",
     "path": "sprites/sBlock24px/sBlock24px.yy",
@@ -31,8 +34,4 @@
     "name": "Block",
     "path": "folders/Objects/Block.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oBlock24px",
-  "tags": [],
-  "resourceType": "GMObject",
 }

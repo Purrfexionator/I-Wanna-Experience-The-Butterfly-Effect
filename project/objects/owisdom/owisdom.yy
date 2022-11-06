@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oWisdom",
   "spriteId": {
     "name": "sWisdom",
     "path": "sprites/sWisdom/sWisdom.yy",
@@ -28,8 +31,4 @@
     "name": "Props",
     "path": "folders/Objects/Props.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oWisdom",
-  "tags": [],
-  "resourceType": "GMObject",
 }
